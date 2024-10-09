@@ -33,8 +33,6 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biells2&theme=date_night" alt="Detalhes do perfil">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biells2&theme=date_night" alt="Linguagens mais utilizadas">
   <img src="https://github-readme-stats.vercel.app/api?username=biells2&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas do GitHub">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biells2&theme=radical" alt="Streaks do GitHub">
 </div>
@@ -49,14 +47,14 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 | JavaScript            | ⭐⭐⭐⭐☆       |
 | C#                    | ⭐⭐⭐☆        |
 | HTML & CSS            | ⭐⭐⭐⭐⭐       |
-| SQL (MySQL, PostgreSQL) | ⭐⭐⭐⭐☆     |
+| SQL (MySQL)           | ⭐⭐⭐⭐⭐     |
 | Visual Basic          | ⭐⭐⭐☆        |
 
 ---
 
 ## 🌱 O que estou estudando atualmente?
 
-- Aprofundando conhecimentos em **TypeScript** e **React.js**
+- Aprofundando conhecimentos em **TypeScript** e **Ajax**
 - Explorando boas práticas em **Arquitetura de Software**
 - Melhorando performance e otimização com **Laravel**
 
@@ -70,8 +68,8 @@ Atualmente trabalho na **BRVR**, onde faço parte de uma equipe dedicada ao dese
 
 ## 📫 Como entrar em contato comigo?
 
-- [![Linkedin Badge](https://img.shields.io/badge/-biells-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario)](https://www.linkedin.com/in/seu-usuario)
-- 📧 Email: seu-email@dominio.com
+- [![Linkedin Badge](https://img.shields.io/badge/-biells-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-b5283432b)](https://www.linkedin.com/in/gabriel-carvalho-b5283432b)
+- 📧 Email: gc89009@gmail.com
 
 ---
 
