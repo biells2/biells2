@@ -73,16 +73,6 @@ Atualmente trabalho na **BRVR**, onde faço parte de uma equipe dedicada ao dese
 
 ---
 
-## 🛠️ Repositórios em destaque
-
-Aqui estão alguns dos meus projetos públicos:
-
-- [🚀 Projeto X](https://github.com/biells2/projeto-x) - Projeto em Laravel para...
-- [📚 Biblioteca Y](https://github.com/biells2/biblioteca-y) - Biblioteca em JavaScript para...
-- [💼 Aplicação Z](https://github.com/biells2/aplicacao-z) - Sistema de gestão feito em...
-
----
-
 ## 🌟 Deixe uma estrela ⭐
 
 Se algum dos meus projetos te ajudar, considere deixar uma estrela. Isso me motiva a continuar compartilhando conhecimento!
