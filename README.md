@@ -34,7 +34,7 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biells2&theme=date_night" alt="Detalhes do perfil">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biells2&theme=date_night&exclude_repo=sanipower_comerciais" alt="Linguagens mais utilizadas">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biells2&theme=date_night" alt="Linguagens mais utilizadas">
   <img src="https://github-readme-stats.vercel.app/api?username=biells2&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas do GitHub">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biells2&theme=radical" alt="Streaks do GitHub">
 </div>
