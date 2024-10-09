@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Biells!
+# 👋 Olá, eu sou o Gabriel!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Bem+vindo+ao+meu+GitHub!;Eu+sou+um+Desenvolvedor+Web;Programador+Backend+com+toques+de+Frontend!)](https://git.io/typing-svg)
 
