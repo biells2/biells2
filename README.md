@@ -13,7 +13,7 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 **Back-end:**
 
 - PHP Puro, Laravel, Livewire
-- Integração com APIs (RESTful e SOAP)
+- Integração com APIs
 - Conhecimento em C# e Visual Basic
 
 **Front-end:**
