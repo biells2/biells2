@@ -43,12 +43,12 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 
 | Linguagem             | Nível       |
 |-----------------------|-------------|
-| PHP                   | ⭐⭐⭐⭐⭐       |
-| JavaScript            | ⭐⭐⭐⭐☆       |
-| C#                    | ⭐⭐⭐☆        |
-| HTML & CSS            | ⭐⭐⭐⭐⭐       |
-| SQL (MySQL)           | ⭐⭐⭐⭐⭐     |
-| Visual Basic          | ⭐⭐⭐☆        |
+| PHP                   | ⭐⭐⭐⭐⭐☆      |
+| JavaScript            | ⭐⭐⭐⭐☆☆       |
+| C#                    | ⭐⭐⭐☆☆        |
+| HTML & CSS            | ⭐⭐⭐⭐⭐☆       |
+| SQL (MySQL)           | ⭐⭐⭐⭐⭐☆     |
+| Visual Basic          | ⭐⭐⭐☆☆        |
 
 ---
 
