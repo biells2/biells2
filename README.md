@@ -45,10 +45,10 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 |-----------------------|-------------|
 | PHP                   | ⭐⭐⭐⭐⭐☆      |
 | JavaScript            | ⭐⭐⭐⭐☆☆       |
-| C#                    | ⭐⭐⭐☆☆        |
+| C#                    | ⭐⭐⭐☆☆☆        |
 | HTML & CSS            | ⭐⭐⭐⭐⭐☆       |
 | SQL (MySQL)           | ⭐⭐⭐⭐⭐☆     |
-| Visual Basic          | ⭐⭐⭐☆☆        |
+| Visual Basic          | ⭐⭐⭐☆☆☆        |
 
 ---
 
