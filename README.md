@@ -33,7 +33,7 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biells2&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas do GitHub">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=biells2&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas do GitHub">-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biells2&theme=radical" alt="Streaks do GitHub">
 </div>
 
