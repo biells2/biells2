@@ -68,7 +68,7 @@ Atualmente trabalho na **BRVR**, onde faço parte de uma equipe dedicada ao dese
 
 ## 📫 Como entrar em contato comigo?
 
-- [![Linkedin Badge](https://img.shields.io/badge/-biells-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-b5283432b)](https://www.linkedin.com/in/gabriel-carvalho-b5283432b)
+- [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-b5283432b)](https://www.linkedin.com/in/gabriel-carvalho-b5283432b)
 - 📧 Email: gc89009@gmail.com
 
 ---
