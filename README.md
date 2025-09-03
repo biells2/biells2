@@ -32,7 +32,7 @@ Atualmente, meu perfil pode parecer um pouco enxuto, mas isso se deve ao fato de
 
 ## 📊 Estatísticas
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biells2&theme=radical)
+![biells2's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biells2&theme=radical)
 
 
 ---
